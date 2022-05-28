@@ -14,6 +14,7 @@
 ## SO
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14828697)](https://stackoverflow.com/users/14828697/capt-171)
 
+
 ## Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DET171&theme=monokai)
 
