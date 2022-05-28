@@ -18,4 +18,19 @@
 ## Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DET171&theme=monokai)
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DET171&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DET171&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DET171&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DET171&theme=default)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DET171)](https://git.io/streak-stats)
+
+
+
+## My Activity
+<!--GITHUB_ACTIVITY:{"rows": 10, "raw": fasle}-->
+
+
+<!--GITHUB_REPOS:{"rows": 10, "raw": false, "sort": "updated"}-->
