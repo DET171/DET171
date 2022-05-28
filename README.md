@@ -31,6 +31,3 @@
 
 ## My Activity
 <!--GITHUB_ACTIVITY:{"rows": 10, "raw": fasle}-->
-
-
-<!--GITHUB_REPOS:{"rows": 10, "raw": false, "sort": "updated"}-->
