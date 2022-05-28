@@ -19,7 +19,8 @@ jobs:
       - name: Create README.md
         uses: actions-js/profile-readme@master
         with:
-          username: <your username>
+          username: DET171
+          template: ./README.md
           github_token: ${{ secrets.ACCESS_TOKEN }}
       - name: Commit & Push changes
         uses: actions-js/push@master
