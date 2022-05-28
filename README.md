@@ -30,7 +30,27 @@
 
 
 ## My Activity
-<!--GITHUB_ACTIVITY:{"rows": 10, "raw": fasle}-->
+* ⬆️ Pushed 1 commit to DET171/DET171
+* ⬆️ Pushed 1 commit to DET171/DET171
+* ⬆️ Pushed 1 commit to DET171/DET171
+* ⬆️ Pushed 1 commit to DET171/DET171
+* ⬆️ Pushed 1 commit to DET171/DET171
+* ⬆️ Pushed 1 commit to DET171/DET171
+* ⬆️ Pushed 1 commit to EC3-Gang/open-house-wordle
+* ⬆️ Pushed 1 commit to EC3-Gang/open-house-wordle
+* ⬆️ Pushed 1 commit to EC3-Gang/open-house-wordle
+* ⬆️ Pushed 2 commits to EC3-Gang/open-house-wordle
 
 
-<!--GITHUB_REPOS:{"rows": 10, "raw": false, "sort": "updated"}-->
+|*|Stars|Repo|Description|
+|---|---|---|---|
+| 📦 | 0 | [DET171/DET171](https://github.com/DET171/DET171) | null |
+| 📦 | 0 | [DET171/cca-stuff](https://github.com/DET171/cca-stuff) | null |
+| 📦 | 0 | [DET171/hci-2022-slf-e-portfolio](https://github.com/DET171/hci-2022-slf-e-portfolio) | null |
+| 📦 | 0 | [DET171/is-a-dev-register](https://github.com/DET171/is-a-dev-register) | Grab your own sweet-looking '.is-a.dev' subdomain |
+| 📦 | 0 | [DET171/s1-if-notes](https://github.com/DET171/s1-if-notes) | null |
+| 📦 | 2 | [HCI-Science-Project/Discord-Bot](https://github.com/HCI-Science-Project/Discord-Bot) | Discord bot aimed to assist students with their revision |
+| 📦 | 0 | [DET171/Discord-Bot](https://github.com/DET171/Discord-Bot) | null |
+| 📦 | 0 | [DET171/hci-sci-profiledb](https://github.com/DET171/hci-sci-profiledb) | null |
+| 📦 | 0 | [HCI-Science-Project/Teacher-Portal](https://github.com/HCI-Science-Project/Teacher-Portal) | null |
+| 📦 | 0 | [HCI-Science-Project/Website](https://github.com/HCI-Science-Project/Website) | null |
