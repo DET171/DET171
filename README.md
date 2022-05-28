@@ -19,9 +19,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DET171&theme=monokai)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DET171)](https://git.io/streak-stats)
-
-
-## ✨ Recent activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
