@@ -3,6 +3,10 @@ on:
   push:
     branches:
       - '*'
+  schedule:
+    - cron: '*/6 * * * *'
+  workflow_dispatch:
+
 jobs:
   sync-branch:
     runs-on: ubuntu-latest
