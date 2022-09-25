@@ -28,15 +28,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DET171)](https://git.io/streak-stats)
 
 
-
-## My Activity
-* ⬆️ Pushed 1 commit to DET171/DET171
-* ❌ Closed PR #1 in DET171/DET171
-* ⬆️ Pushed 1 commit to DET171/DET171
-* 💪 Opened PR #1 in DET171/DET171
-* ⬆️ Pushed 1 commit to DET171/DET171
-* ⬆️ Pushed 1 commit to DET171/DET171
-* ⬆️ Pushed 1 commit to DET171/DET171
-* ⬆️ Pushed 1 commit to DET171/DET171
-* ⬆️ Pushed 1 commit to DET171/DET171
-* ⬆️ Pushed 1 commit to DET171/DET171
