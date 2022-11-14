@@ -28,3 +28,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DET171)](https://git.io/streak-stats)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=DET171&langs_count=10&theme=dracula&count_private=true)
